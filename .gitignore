@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+myenv/
+venv/
+.venv/
+
+# Environment
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & Uploads
+backend/logs/
+backend/uploads/
